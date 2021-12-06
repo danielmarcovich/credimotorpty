@@ -1,0 +1,885 @@
+  .label{
+        display:none;
+  }
+  
+  .left{
+        width: 48%;
+        float: left;
+        margin-bottom: 20px;
+  }
+  
+  .right{
+        width: 48%;
+        float: right;
+        margin-bottom: 20px;
+  }
+  
+  #\36 5397786-b6db-41c5-b267-260e7befb6db > div:nth-child(13){
+      text-align:center;
+  }
+  
+body {
+   overflow-x: hidden;
+}
+.header {
+    background-image: url("../images/top-background2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    max-height: 100px;
+    box-shadow: 0 5px 30px 0px #000000
+}
+
+.head {
+    position: relative;
+    z-index: 10
+}
+
+.logo {
+    clear: both;
+    text-align: right;
+    margin: 5px 0;
+}
+.logo-xs {
+    padding: 9px 3px 0px 8px;
+}    
+.logo-xs > a > img {
+    max-width: 100px;
+}
+.top-right {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    font-size: 20pt;
+    padding: 20px 0
+}
+
+.top-right > a {
+    color: #00B441;
+    font-size: 20pt;
+    margin: 15px
+}
+
+.top-right > a:hover {
+    color: #00B441;
+    text-decoration: none;
+    cursor: pointer
+}
+
+.navbar-fixed-top {
+    box-shadow: 0 5px 30px 0px #000000;
+    border: none;
+    background:#fff;
+    /*background-image: url("../images/top-background2.jpg");*/
+}
+
+.title-form {
+    padding: 2px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.radios > input {
+    margin-bottom: 15px;
+    font-size: 12pt
+}
+
+.radios {
+    font-size: 12pt
+}
+
+.modal {
+    top: 18%
+}
+
+.modal-header {
+    padding: 5px 10px
+}
+
+.close {
+    font-size: 22pt;
+    color: #fff;
+    opacity: 1
+}
+
+.modal-content {
+    background-color: rgba(27, 148, 64, .9);
+    color: #fff
+}
+
+section#banner {
+    margin-top: 50px
+}
+
+.creditaxi{
+
+    padding-top: 19%;
+    padding-bottom: 9%;
+}
+@media screen and (max-width: 2691px) and (min-width: 1600px){
+    .creditaxi{
+
+    padding-top: 19%;
+    padding-bottom: 9%;
+  }
+}
+
+@media screen and (max-width: 1601px) and (min-width: 1376px){
+    .creditaxi{
+
+    margin-top: 24%;
+    margin-bottom: 23%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+  }
+}
+
+@media screen and (max-width: 1377px) and (min-width: 1180px){
+    .creditaxi{
+
+        margin-top: 18%;
+    margin-bottom: 12%;
+    padding-top: 12%;
+    padding-bottom: 23%;
+  }
+}
+
+@media screen and (max-width: 1179px) and (min-width: 1024px){
+    .creditaxi{
+
+        margin-top: 22%;
+    margin-bottom: 25%;
+    padding-top: 15%;
+    padding-bottom: 18%;
+  }
+}
+@media screen and (max-width: 1023px) and (min-width: 992px){
+    .creditaxi{
+
+        padding-top: 43%;
+    padding-bottom: 32%;
+  }
+}
+@media screen and (max-width: 991px) and (min-width: 835px){
+    .creditaxi{
+
+        padding-top: 36%;
+        padding-bottom: 22%;
+  }
+}
+@media screen and (max-width: 834px) and (min-width: 768px){
+    .creditaxi{
+
+        padding-top: 49%;
+        padding-bottom: 29%;
+  }
+}
+@media screen and (max-width: 767px) and (min-width: 694px){
+    .creditaxi{
+
+           margin-top: -6%;
+           margin-bottom: -9%;
+  }
+}
+
+@media screen and (max-width: 693px) and (min-width: 613px){
+    .creditaxi{
+
+        margin-top: -5%;
+        margin-bottom: -6%;
+        margin-left: 57px;
+  }
+.oferta{
+
+    margin-left: 78px;
+}
+}
+
+@media screen and (max-width: 612px) and (min-width: 543px){
+    .creditaxi{
+
+            margin-top: -3%;
+            margin-bottom: -4%;
+            margin-left: 30px;
+  }
+.oferta {
+    margin-left: 48px;
+}
+}
+
+@media screen and (max-width: 542px) and (min-width: 482px){
+    .creditaxi{
+
+        margin-top: 0%;
+        margin-bottom: -3%;
+        margin-left: 30px;
+  }
+.oferta {
+    margin-left: 48px;
+}
+}
+
+@media screen and (max-width: 481px) and (min-width: 431px){
+    .creditaxi{
+
+        margin-top: 3%;
+        margin-bottom: -2%;
+  }
+.oferta {
+    margin-left: 5px;
+    margin-bottom: 34px;
+}
+}
+
+@media screen and (max-width: 430px) and (min-width: 378px){
+    .creditaxi{
+
+            margin-top: 1%;
+            margin-bottom: -3%;
+  }
+}
+
+@media screen and (max-width: 377px) and (min-width: 320px){
+    .creditaxi{
+
+        padding-top: 26%;
+        padding-bottom: 14%;
+  }
+}
+.oferta{
+
+    margin-top: 10%;
+}
+@media screen and (max-width: 2269px) and (min-width: 1694px){
+    .ofertá{
+
+    margin-top: 15%;
+ }
+}
+.banner {
+    margin-top: 81px;
+    /*margin-bottom: -45px;*/
+    padding: 30px;
+    height: 600px;
+    background: url(../images/banner.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+@media screen and (max-width: 430px) and (min-width: 300px){
+   .banner{
+         height: 522px;
+  }
+}
+.texto-slider {
+    position: relative;
+    top: 1pc
+}
+
+.btn-warning {
+    background: #E1141B !important;
+    color: #FFFFFF;
+    font-size: medium;
+    font-weight: 600;
+    border: none
+}
+
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:focus {
+    background-color: #FFBC17 !important;
+    color: #000 !important
+}
+
+.btn-success {
+    background: #339933
+}
+
+label {
+    cursor: pointer
+}
+
+.modal-body.content-popup > #Formu > .btn-send {
+    background-color: #FFBC17;
+    color: #000;
+    font-weight: 600;
+    border: none
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25pt;
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000
+}
+
+.title-contact {
+    font-size: 27pt;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.5
+}
+
+.content-contact {
+    font-size: 16pt;
+    font-weight: 600
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 18pt;
+    color: #fff
+}
+
+.message {
+    width: 100%
+}
+
+#contact-panel {
+    color: #000000;
+    border-radius: 5px;
+    font-size: 150%;
+    clear: both;
+    position: relative;
+    margin-top: 25%;
+    margin-bottom: 10%;
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: white!important;
+}
+.panel.title > strong {
+    font-weight: 500;
+}
+.panel-success {
+    border-color: #339933!important;
+}
+.panel-success>.panel-heading {
+    color: #339933!important;
+    background-color: #339933!important;
+    border-color: #339933!important;
+}
+
+#contact-form {
+    color: #fff;
+    padding: 19px 22px;
+    border-radius: 5px;
+    clear: both;
+    position: relative;
+    background: rgba(27, 148, 64, 0.79);
+    margin-top: 10%;
+    margin-bottom: 10%
+}
+
+textarea {
+    padding: 0 11px
+}
+
+.big-title {
+    color: #fff;
+    font-size: 45pt;
+    text-align: center;
+    margin: 7px 0
+}
+
+.cta {
+    background: #d9dadc;
+    background: -moz-linear-gradient(top, #d9dadc 0%, #ffffff 50%, #dfe0e2 100%);
+    background: -webkit-linear-gradient(top, #d9dadc 0%, #ffffff 50%, #dfe0e2 100%);
+    background: linear-gradient(to bottom, #d9dadc 0%, #ffffff 50%, #dfe0e2 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#d9dadc', endColorstr='#dfe0e2', GradientType=0);
+    height: auto
+}
+
+.logo-nissan {
+    padding: 0 45px;
+    width: 265px;
+    margin: 0 auto
+}
+
+.title-nissan {
+    text-align: center;
+    font-size: 70pt;
+    line-height: 1.1;
+    font-weight: 800;
+    margin: 20px 0
+}
+
+.list-cta {
+    text-align: center;
+    color: #fff;
+    font-size: 17pt;
+    margin: 5px 0
+}
+
+.title-land {
+    text-align: center;
+    font-size: 35pt;
+    line-height: .8;
+    font-style: italic;
+    font-weight: 600;
+    margin: 20px 0 70px 0
+}
+
+.title-financiamiento {
+    font-size: 16pt;
+    color: #000;
+    text-align: left;
+    font-weight: 600
+}
+
+.sub-financiamiento {
+    text-align: center;
+    color: #000;
+    font-size: 14pt;
+    margin: 0 0 10px 6px
+}
+
+.finan {
+    font-size: 55pt;
+    font-weight: 900;
+    font-style: normal;
+    color: #FFCC00;
+    text-transform: uppercase
+}
+
+@media screen and (max-width: 480px){
+.finan {
+    font-size: 20pt!important;
+ }
+}
+
+.list-finan {
+    font-size: 14pt;
+    color: #000;
+    font-style: italic;
+    text-align: left;
+    margin: 0 19%;
+    font-weight: bold
+}
+
+.list-finan > li {
+    padding-bottom: 9px
+}
+
+.list-nissan {
+    display: flex;
+    clear: both;
+    margin: 0 auto;
+    padding: 20px 0;
+    max-width: 1200px
+}
+
+.list-nissan > .insider {
+    text-align: center;
+    font-size: 19pt;
+    margin: 0px 30px;
+    text-align: center;
+    color: #E2183C;
+    font-weight: 600
+}
+
+.slash {
+    border-right: 2px solid #E2183C;
+    -webkit-transform: skewX(-27deg);
+    -moz-transform: skewX(-27deg);
+    -ms-transform: skewX(-27deg);
+    -o-transform: skewX(-27deg);
+    transform: skewX(-27deg)
+}
+
+.landing {
+    background: #3C7D7D;
+    padding: 1% 0%;
+    background-image: url(../images/bg3.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.contenido {
+    background: #808080;
+    padding: 15px 0
+}
+
+.contact {
+    background: #EEEDF2
+}
+
+.content-contact > a {
+    color: #585858
+}
+
+.content-contact > a:hover {
+    color: #5F5F5F;
+    text-decoration: none
+}
+
+.bg4 {
+    background-image: url(../images/bg14.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.title-request {
+    text-align: center;
+    font-size: 35pt;
+    line-height: 1.1;
+    position: relative;
+    left: -80px;
+    margin: 20px 0
+}
+
+.title-request > p {
+    margin: 0
+}
+
+.request-taxi {
+    font-size: 17pt;
+    font-weight: 600;
+    text-align: center;
+    float: right;
+    margin: 60px 0
+}
+
+.cuotas .img-responsive {
+    margin: 0 auto
+}
+
+.dqc {
+    height: 240px
+}
+
+.copyright,
+.copyright > a {
+    text-align: center;
+    font-size: 13pt;
+    color: rgba(255, 255, 255, .8);
+    padding: 5px 0;
+    text-decoration: none
+}
+
+.close {
+    color: #fff;
+    opacity: 1
+}
+
+.footer {
+    background: #339933
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background: rgb(218, 218, 218);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3)
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FFCC00;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2)
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #00B441;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border-radius: 10px
+}
+.section-description p {
+    font-size: 10pt;
+}
+.section-description h3 {
+    font-size: 12pt;
+}
+.txt{
+text-shadow: 1px 1px 1px #000; 
+    font-size:xx-large; 
+    color:#fff;
+}
+.cambio{
+    background-image: url(../images/bgc.png); 
+    background-size:cover; 
+    background-repeat:no-repeat; 
+    background-position: center;
+    /*padding-top: 57px;
+    padding-bottom: 12px;*/
+}
+.contacto{
+    background-image: url(../images/Banner3fVolt.jpg); 
+    background-size:cover; 
+    background-repeat:no-repeat; 
+    padding: 57px 0 100px 0;
+}
+.list-logos{
+    padding: 10px 0;
+    margin: 0 auto;
+}
+.list-logos li{
+    min-width: 136px;
+}
+.list-logos li img {
+
+    margin: 5px auto;
+}
+    .txt{
+background: rgba(0,0,0,.2); 
+
+}
+    .logo {
+        width: 45%;
+        position: relative;
+       /* top: 1pc*/
+    }
+    .logo img {
+        width: 130px
+    }
+    .title-nissan {
+        font-size: 50pt
+    }
+    .list-nissan > .insider {
+        font-size: 10pt;
+        margin: 0px 10px
+    }
+    .title-land {
+        text-align: center;
+        font-size: 25pt;
+        margin: 20px
+    }
+    .finan {
+        font-size: 23pt
+    }
+@media screen and (max-width: 480px)
+.title-request {
+    left: -52px;
+    font-size: 20pt!important;
+}
+    .texto-slider {
+        top: 0pc
+    }
+@media (min-width: 760px) {
+
+    .texto-slider {
+    margin-right: 10pc;
+   }
+}
+@media (min-width: 1020px) {
+
+    .texto-slider {
+    margin-right: 10pc;
+   }
+}
+@media (min-width: 124px) {
+
+    .texto-slider {
+    margin-right: 1pc;
+   }
+}
+    .title {
+        font-size: 21pt
+    }
+    .title-request {
+        left: -52px;
+        font-size: 30pt;
+
+    }
+    .request-taxi {
+        margin: 0;
+        position: relative;
+        z-index: 99
+    }
+    .list-finan {
+        padding: 0;
+        margin: 15px 34px
+    }
+    .list-finan > li {
+        padding-bottom: 9px !important
+    }
+    .telef {
+        margin: -18px -15px 2px;
+        color: #fff;
+        font-size: 14pt
+    }
+    .telef > a,
+    .telef > a:hover {
+        color: #fff;
+        text-decoration: none
+    }
+    .icons {
+        float: right;
+        position: relative;
+        margin: -20px 40px;
+        font-size: 25pt;
+        top: -13px
+    }
+    div#top-navbar-1 {
+        display: block;
+        border: none
+    }
+    .icons > a {
+        color: #fff;
+        margin-left: 9px
+    }
+    .cuotas {
+        margin: 10px 0
+    }
+    .copyright, .copyright > a {
+    margin-bottom: 48px;
+    }
+}
+
+.bg-bottom-menu {
+    background: #00b441;
+}
+
+div#bottomNav div a {
+    color: white;
+    font-size: 23pt;
+    /*padding: 6px 28px;*/
+}
+
+div#bottomNav div {
+    border-right: 1px solid #fff;
+   /* box-shadow: inset 0px 0px 91px rgba(0, 0, 0, 0.23);*/
+       background: #3C7D7D;
+}
+
+div#bottomNav div:last-child {
+    border: none;
+}
+.cd-mob-chat-widget {
+    display: none;
+}
+.consultanos {
+ padding-top: 10px;
+}
+}
+@media screen and (min-width: 1020px){
+.consultanos{
+ padding-top: 10px;
+  margin-left: 0%;
+}
+}
+@media screen and (max-width: 430px) and (min-width: 300px){
+   .consultanos{
+     padding-top: 29%;
+    margin-left: 0%;
+  }
+}
+.tel_contacto{
+    list-style: none;
+}
+.tel_contacto a{
+  color: #339933;
+}
+.tel_contacto a:hover{
+  text-decoration: none;
+}
+
+#sidebar-wrapper {
+    margin-right: -250px;
+    right: 0;
+    width: 250px;
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1100!important;
+    transition: all 0.5s ease-in 0s;
+    -webkit-transition: all 0.5s ease-in 0s;
+    -moz-transition: all 0.5s ease-in 0s;
+    -ms-transition: all 0.5s ease-in 0s;
+    -o-transition: all 0.5s ease-in 0s;
+  }
+
+  .sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar-nav li {
+    line-height: 50px;
+    text-indent: 20px;
+  }
+
+  .sidebar-nav li a {
+    color: #999999;
+    display: block;
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:hover {
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:active, .sidebar-nav li a:focus {
+    text-decoration: none;
+  }
+
+  .sidebar-nav > .sidebar-brand {
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+  }
+
+  .sidebar-nav > .sidebar-brand a {
+    color: #999999;
+  }
+
+  .sidebar-nav > .sidebar-brand a:hover {
+    color: #fff;
+    background: none;
+  }
+
+  #menu-toggle {
+    top: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1;
+  }
+
+  #sidebar-wrapper.active {
+    right: 250px;
+    width: 250px;
+    transition: all 0.5s ease-out 0s;
+    -webkit-transition: all 0.5s ease-out 0s;
+    -moz-transition: all 0.5s ease-out 0s;
+    -ms-transition: all 0.5s ease-out 0s;
+    -o-transition: all 0.5s ease-out 0s;
+    z-index: 5;
+  }
+
+  .toggle {
+    margin: 5px 5px 0 0;
+  }
+
+  .color-theme{
+
+  color: #009BDB;
+}
+
+.color-theme-background{
+
+  background-color: #009BDB;
+}
